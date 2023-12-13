@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: <image>
+        image: dwnusa/myhello:3
         ports:
         - containerPort: 8080
